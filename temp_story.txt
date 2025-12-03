@@ -1,0 +1,29 @@
+“Create an 8-panel manga-style scene in clean black-and-white with consistent character design.
+Main character: Arin, a young scientist (mid-20s), messy hair, slim build, white lab coat, expressive eyes.
+Setting: A cluttered tech-lab with monitors, tools, papers, and glowing devices. Use manga-style shading, screentones, and panel composition.
+
+Panel 1: Wide shot. Arin enters the lab holding a coffee mug, looking exhausted.
+Dialogue (Arin): “Another long night… but I have to finish this prototype.”
+
+Panel 2: Arin notices a faintly glowing metal cube on the desk.
+Dialogue (Arin): “Huh? Did I leave this thing on?”
+
+Panel 3: Close-up of the cube levitating and releasing bright energy.
+Dialogue (Arin, off-panel): “No way… it’s reacting?”
+
+Panel 4: Papers and tools float around Arin as he shields his eyes from the light.
+Dialogue (Arin): “Stop—stop! You’re not supposed to activate!”
+
+Panel 5: A swirling portal tears open behind him, showing a futuristic neon city.
+Dialogue (Arin): “A portal?! I definitely didn’t build that!”
+
+Panel 6: Arin steps closer, cautious but intrigued.
+Dialogue (Arin): “Should I… look inside?”
+
+Panel 7: He stands at the edge, shocked by flying vehicles and towering holograms.
+Dialogue (Arin): “This is insane… but incredible.”
+
+Panel 8: Rear view of Arin walking into the portal, swallowed by its glow.
+Dialogue (Arin): “Alright… let’s see where this leads.”
+
+Style notes: Use manga screentones, speed lines, expressive faces, dramatic lighting, and Japanese panel flow conventions (top-to-bottom, right-to-left if supported).”

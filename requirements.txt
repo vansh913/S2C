@@ -1,0 +1,17 @@
+torch>=2.0.0
+transformers
+diffusers[torch]
+accelerate
+safetensors
+spacy
+spacy-transformers
+pillow
+opencv-python
+matplotlib
+numpy
+tqdm
+ftfy
+sentence-transformers
+streamlit
+gradio
+# xformers # optional acceleration; optional on Windows
